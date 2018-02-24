@@ -2,3 +2,11 @@
 
 data/index/*
 data/host/*
+
+# Ignore Nextflow outputs and work
+work/*
+test/*
+
+# Ignore Nextflow logs
+.nextflow.log*
+.nextflow

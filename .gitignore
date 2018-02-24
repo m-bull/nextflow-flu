@@ -1,0 +1,4 @@
+# Ignore GRCh38 indexes
+
+data/index/*
+data/host/*
